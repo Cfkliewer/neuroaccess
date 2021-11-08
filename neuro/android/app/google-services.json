@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "562094755458",
+    "project_id": "refer-me-e6871",
+    "storage_bucket": "refer-me-e6871.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:562094755458:android:aa4618c4558c4303f16e9b",
+        "android_client_info": {
+          "package_name": "com.niftly.referme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "562094755458-ireva46tkbqd4n0n32555fj3oe4po8f3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtiO-Ofr3Aa3dC6EGsCNqkAltmpvwzGbE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "562094755458-ireva46tkbqd4n0n32555fj3oe4po8f3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "562094755458-i6i2vf84gcvaasen8c1l0r9uvau9aqv4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.niftly.refer-me"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
